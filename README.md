@@ -8,9 +8,20 @@ Tourism Product Marketing: Developed and executed innovative marketing strategie
 - 📫 How to reach me
   Contact Person : +6282180798837
   Email          : srisagitaripasaribu@gmail.com
-  LinkedIn       : https://www.linkedin.com/in/sri-sagitari-pasaribu-18037a21b?   utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  LinkedIn       : https://www.linkedin.com/in/sri-sagitari-pasaribu-18037a21butm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <!---
 Srisagitari/Srisagitari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+My Skills :
+-Proficient in Microsoft Office Suite (Word, Excel, PowerPoint)
+-Strong public speaking and presentation skills
+-Knowledgeable in digital marketing strategies and tools
+-Excellent communication and interpersonal skills
+-Ability to work collaboratively in team settings
+-Strong analytical and problem-solving abilities
+-Adaptable and quick learner in fast-paced environments
+-Experience in project management and coordination
